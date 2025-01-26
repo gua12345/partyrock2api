@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/718a4ca8-751d-4c93-a6ac-5af18561d875)# Partyrock2api
+# Partyrock2api
 
-
-## 声明
-- 仅用于学术研究和交流学习
+### 对你有用的话麻烦给个stras谢谢
 
 ## 支持模型
 - claude-3-5-haiku
@@ -13,6 +11,9 @@
 - llama3-1-70b
 - mistral-small
 - mistral-large
+
+## 请求格式
+openai的请求格式相同支非流和流
 
 ## Docker部署
 ### 拉取
