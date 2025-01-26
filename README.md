@@ -24,7 +24,7 @@ docker pull mtxyt/partyrock-api:1.1
 ```bash
 docker run -d -p 8803:8803 mtxyt/partyrock-api:1.1
 ```
-请求key获取方式
+## 获取请求key获取方式
 ### 准备步骤
 点击Generate app按钮创建app
 ![image](https://github.com/user-attachments/assets/847748e6-896f-471d-8048-de3379cdbf70)
