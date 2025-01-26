@@ -1,6 +1,6 @@
 # Partyrock2api
 
-### 对你有用的话麻烦给个stras谢谢
+### 对你有用的话麻烦给个stars谢谢
 
 ## 支持模型
 - claude-3-5-haiku
