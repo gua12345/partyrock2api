@@ -18,11 +18,11 @@
 ## Docker部署
 ### 拉取
 ```bash
-docker pull mtxyt/partyrock-api:1.1
+docker pull mtxyt/partyrock-api:1.3
 ```
 ### 运行
 ```bash
-docker run -d -p 8803:8803 mtxyt/partyrock-api:1.1
+docker run -d -p 8803:8803 mtxyt/partyrock-api:1.3
 ```
 ## 获取请求key获取方式
 ### 准备步骤
