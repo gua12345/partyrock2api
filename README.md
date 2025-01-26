@@ -42,5 +42,9 @@ key的格式为appid|||anti-csrftoken-a2z|||cookie组合
 如果你的appid=abab1,anti-csrftoken-a2z=132hdwqo,cookie=sdakvfjdijvdiv
 那你的key就是abab1|||132hdwqo|||sdakvfjdijvdiv
 
+## 更多
+有位朋友提供了ts版本
+大家自己部署只需要部署单个版本即可docker部署的是py版本的
+
 ## 声明
 本项目仅供学术交流使用，请勿用于商业用途。
