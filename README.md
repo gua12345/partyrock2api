@@ -13,7 +13,7 @@
 - mistral-large
 
 ## 请求格式
-openai的请求格式相同支非流和流
+和openai的请求格式相同支非流和流
 
 ## Docker部署
 ### 拉取
