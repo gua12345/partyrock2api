@@ -32,7 +32,7 @@ docker run -d -p 8803:8803 mtxyt/partyrock-api:1.1
 ### 1.在标头里拿到anti-csrftoken-a2z和cookie
 找到对应请求
 ![屏幕截图 2025-01-26 204042](https://github.com/user-attachments/assets/e8c27ce9-0a0d-468c-89aa-8c61e64b990e)
-### 1.在负载里拿到appid
+### 2.在负载里拿到appid
 ![屏幕截图 2025-01-26 204209](https://github.com/user-attachments/assets/37c6707f-ad98-4cad-af35-b37d6c4d1ef7)
 
 ## 注
