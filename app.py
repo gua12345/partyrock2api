@@ -9,11 +9,11 @@ app = Flask(__name__)
 
 MODELS = {
    'claude-3-5-haiku': 'bedrock-anthropic.claude-3-5-haiku',
-   'claude-3-5-opus': 'bedrock-anthropic.claude-3-5-sonnet-v2-0',
+   'claude-3-5-sonnet': 'bedrock-anthropic.claude-3-5-sonnet-v2-0',
    'nova-lite-v1-0': 'bedrock-amazon.nova-lite-v1-0',
    'nova-pro-v1-0': 'bedrock-amazon.nova-pro-v1-0',
-   'llama-7b': 'bedrock-meta.llama3-1-8b-instruct-v1',
-   'llama-70b': 'bedrock-meta.llama3-1-70b-instruct-v1',
+   'llama3-1-7b': 'bedrock-meta.llama3-1-8b-instruct-v1',
+   'llama3-1-70b': 'bedrock-meta.llama3-1-70b-instruct-v1',
    'mistral-small': 'bedrock-mistral.mistral-small-2402-v1-0',
    'mistral-large': 'bedrock-mistral.mistral-large-2407-v1-0'
 }
